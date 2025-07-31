@@ -16,15 +16,6 @@
 
 ---
 
-## 🛠️ Compétences
-
-- **Langages :** Python, Dart, C
-- **Frameworks :** FastAPI, Flutter, SQLModel, Pydantic
-- **Outils :** Git, Linux (Fedora), Conda
-- **Bases de données :** MySQL, SQLite
-
----
-
 ## 📈 GitHub Stats
 
 <!-- Tu peux activer ces stats si tu veux -->
