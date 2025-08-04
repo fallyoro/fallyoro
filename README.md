@@ -20,7 +20,10 @@
 
 <!-- Tu peux activer ces stats si tu veux -->
 ![Yoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallyoro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallyoro&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallyoro&layout=compact&langs_count=8&hide=html,css)
+
+
+
 
 ---
 
