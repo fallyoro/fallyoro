@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est **Baye Yoro Fall**
 
-🎓 Étudiant à l'**IPSL**, passionné par le **Machine Learning**, le **développement backend**, et le **développement mobile multiplateforme**.
+🎓 Étudiant à l'**Institut Polytechnique de Saint‑Louis**, passionné par le **Machine Learning**, le **développement backend**, et le **développement mobile multiplateforme**.
 
 ---
 
