@@ -1,4 +1,4 @@
-🎓 Étudiant en Informatique à l’**Institut Polytechnique de Saint-Louis**, passionné par le **Machine Learning**, le **backend** et le **mobile multiplateforme**.
+🎓 Étudiant en Informatique à l’Institut Polytechnique de Saint-Louis | 🛡️ Stagiaire SOC Analyst (Blue Team & Labs Hack The Box)
 
 
 
